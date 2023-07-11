@@ -1,2 +1,7 @@
 # nextjs-sns-app
-Next.jsでのSNSアプリのサンプルを作成する
+
+Next.js での SNS アプリのサンプルを作成する
+
+## 参考サイト
+
+- [【Next.js/Node.js/Prisma/Supabase】本格的な SNS アプリをフルスタック構築するマスター講座](https://www.udemy.com/course/fullstack-sns-development/)
